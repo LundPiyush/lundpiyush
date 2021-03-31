@@ -1,5 +1,3 @@
- Hi there 👋
-
 <!--
 **LundPiyush/lundpiyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,16 +15,16 @@ Here are some ideas to get you started:
 # Hi, I'm [Piyush Lund!](https://lundpiyush.github.io/) 👋
 
 <br />
-<a href="https://twitter.com/">
+<a href="https://twitter.com/Piyush_1919/">
   <img align="left" alt="Piyush Lund | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in//">
+<a href="https://www.linkedin.com/in/piyush-lund">
   <img align="left" alt="Piyush's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com//">
+<a href="https://www.instagram.com/piyushlund349">
   <img align="left" alt="Piyush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://medium.com/@">
+<a href="https://medium.com/@2016.piyush.lund">
   <img align="left" alt="Piyush's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
