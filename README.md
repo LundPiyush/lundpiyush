@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/piyush-lund">
   <img align="left" alt="Piyush's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/piyushlund349">
+<a href="https://www.instagram.com/piyush__l">
   <img align="left" alt="Piyush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://medium.com/@2016.piyush.lund">
