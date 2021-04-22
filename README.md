@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi, I'm [Piyush Lund!](https://lundpiyush.github.io/) 👋
 
 <br />
-<a href="https://twitter.com/Piyush_1919/">
+<a href="https://twitter.com/PiyushLund">
   <img align="left" alt="Piyush Lund | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/piyush-lund">
