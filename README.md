@@ -32,10 +32,8 @@ Here are some ideas to get you started:
 
 A Passionate Full Stack Developer :octocat: and a Computer Engineer from  V.E.S.I.T 🎓. I love building applications and exploring new technologies. Interested in  Web Applications 👯, Innovation and working technologies 🤖
 
-- 🌱 I’m currently learning **Spring Boot** 
 - 👯 I’m looking to collaborate on Web Dev Projects 
-- 💬 Ask me about anything I'm happy to help 
-- 📫 How to reach me **piyushlund349@gmail.com** 
+- 📫 You can reach me **piyushlund349@gmail.com** 
 
 **Languages and Tools:**  
 
