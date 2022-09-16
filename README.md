@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm [Piyush Lund!](https://lundpiyush.github.io/) 👋
+# Hi, I'm Piyush Lund 👋
 
 <br />
 <a href="https://twitter.com/PiyushLund">
