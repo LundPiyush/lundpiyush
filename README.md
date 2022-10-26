@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 A Passionate Full Stack Developer :octocat: and a Computer Engineer from  V.E.S.I.T 🎓. I love building applications and exploring new technologies. Interested in  Web Applications 👯, Innovation and working technologies 🤖
 
 - 👯 I’m looking to collaborate on Web Dev Projects 
-- 📫 You can reach me **piyushlund349@gmail.com** 
+- 📫 You can reach me **piyushlund349@gmail.com**
+- 📝 You can read my Blogs here **https://hashnode.com/@PiyushLund**
 
 **Languages and Tools:**  
 
