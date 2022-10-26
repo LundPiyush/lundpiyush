@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Piyush Lund 👋
+# Hi, [I'm Piyush Lund](https://lundpiyush.github.io) 👋
 
 <br />
 <a href="https://twitter.com/PiyushLund">
@@ -34,7 +34,7 @@ A Passionate Full Stack Developer :octocat: and a Computer Engineer from  V.E.S.
 
 - 👯 I’m looking to collaborate on Web Dev Projects 
 - 📫 You can reach me **piyushlund349@gmail.com**
-- 📝 You can read my Blogs here **https://hashnode.com/@PiyushLund**
+- 📝 You can read my **[Blogs](https://hashnode.com/@PiyushLund)**
 
 **Languages and Tools:**  
 
