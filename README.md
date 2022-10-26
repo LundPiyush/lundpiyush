@@ -34,7 +34,7 @@ A Passionate Full Stack Developer :octocat: and a Computer Engineer from  V.E.S.
 
 - 👯 I’m looking to collaborate on Web Dev Projects 
 - 📫 You can reach me **piyushlund349@gmail.com**
-- 📝 You can read my **[Blogs](https://hashnode.com/@PiyushLund)**
+- 📝 You can read my **[Blogs](https://piyushlundblogs.hashnode.dev/)**
 
 **Languages and Tools:**  
 
