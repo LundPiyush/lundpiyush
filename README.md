@@ -36,10 +36,9 @@ A Passionate Full Stack Developer :octocat: and a Computer Engineer from  V.E.S.
 - 📫 You can reach me **piyushlund349@gmail.com**
 - 📝 You can read my **[Blogs](https://piyushlundblogs.hashnode.dev/)**
 
-**Tech Stack:**  
+
 
 **Tech Stack:**  
-
 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
